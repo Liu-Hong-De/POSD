@@ -1,0 +1,1 @@
+Ellipse (9,8) Triangle (0,0,5,0,0,5) CircularSector (9, 35)
